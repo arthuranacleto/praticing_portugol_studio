@@ -10,3 +10,11 @@ As tarefas a serem executadas ja estão dentro de cada arquivo em forma de comen
  <p><img src="images/homem_letra.gif" width="100" > Estes são os primeiros passos de um programador!</p> Assista a história das linguagens de programação com o Prof. Gustavo Guanabara:
  
  [![Estudonauta](http://img.youtube.com/vi/VdTRiUe23os/0.jpg)](http://www.youtube.com/watch?v=VdTRiUe23os "Historia da programação")
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Anacleto :wave:
