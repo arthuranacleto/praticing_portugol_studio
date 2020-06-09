@@ -7,9 +7,10 @@
 As tarefas a serem executadas ja estão dentro de cada arquivo em forma de comentário👨‍💻
 <img src="images/describe.png" width="500">
 
- <p><img src="images/homem_letra.gif" width="100" > Estes são os primeiros passos de um programador!</p> Assista a história das linguagens de programação com o Prof. Gustavo Guanabara:
+ <p align="center"><img src="images/homem_letra.gif" width="100" > Estes são os primeiros passos de um programador!
+ <br> </p> 
  
- [![Estudonauta](http://img.youtube.com/vi/VdTRiUe23os/0.jpg)](http://www.youtube.com/watch?v=VdTRiUe23os "Historia da programação")
+<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 
 ## 📝 Licença
 
